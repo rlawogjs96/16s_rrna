@@ -1,0 +1,4 @@
+NZ_FRCX01000003.1	barrnap:0.9	rRNA	606367	606544	1.8e-30	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 11 percent of the 16S ribosomal RNA
+NZ_FRCX01000008.1	barrnap:0.9	rRNA	322527	322701	2.8e-30	+	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 11 percent of the 16S ribosomal RNA
+NZ_FRCX01000029.1	barrnap:0.9	rRNA	9	184	2.5e-30	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 11 percent of the 16S ribosomal RNA
+NZ_FRCX01000033.1	barrnap:0.9	rRNA	2	167	2.6e-28	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 10 percent of the 16S ribosomal RNA

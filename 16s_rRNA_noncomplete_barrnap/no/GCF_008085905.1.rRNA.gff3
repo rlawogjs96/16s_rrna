@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_VSFF01000003.1	barrnap:0.9	rRNA	643909	644018	3.8e-14	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_VSFF01000008.1	barrnap:0.9	rRNA	12	121	3.8e-14	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_VSFF01000020.1	barrnap:0.9	rRNA	5	98	8.4e-13	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 78 percent of the 5S ribosomal RNA

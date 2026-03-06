@@ -1,0 +1,4 @@
+##gff-version 3
+JBEBPH010000139.1	barrnap:0.9	rRNA	9138	9249	1.9e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JBEBPH010000205.1	barrnap:0.9	rRNA	1	87	6.8e-10	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA
+JBEBPH010000205.1	barrnap:0.9	rRNA	206	316	3.5e-12	+	.	Name=5S_rRNA;product=5S ribosomal RNA

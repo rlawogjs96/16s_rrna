@@ -1,0 +1,6 @@
+##gff-version 3
+JAHHIL010000004.1	barrnap:0.9	rRNA	232529	232638	3.6e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JAHHIL010000029.1	barrnap:0.9	rRNA	4	113	4.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+JAHHIL010000048.1	barrnap:0.9	rRNA	4	113	4.7e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+JAHHIL010000065.1	barrnap:0.9	rRNA	25363	25472	4.7e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+JAHHIL010000078.1	barrnap:0.9	rRNA	15591	15700	4.7e-07	-	.	Name=5S_rRNA;product=5S ribosomal RNA

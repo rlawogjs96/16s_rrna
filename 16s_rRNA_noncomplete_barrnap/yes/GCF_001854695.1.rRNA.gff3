@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_MAXA01000028.1	barrnap:0.9	rRNA	10514	10623	7.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAXA01000069.1	barrnap:0.9	rRNA	130640	130749	7.5e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_MAXA01000223.1	barrnap:0.9	rRNA	7	201	4.3e-34	-	.	Name=16S_rRNA;product=16S ribosomal RNA (partial);note=aligned only 12 percent of the 16S ribosomal RNA

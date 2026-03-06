@@ -1,0 +1,6 @@
+##gff-version 3
+NZ_KB895335.1	barrnap:0.9	rRNA	371716	371823	8.1e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KB895346.1	barrnap:0.9	rRNA	97	204	8.1e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KB895348.1	barrnap:0.9	rRNA	116896	117003	8.1e-08	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KB895359.1	barrnap:0.9	rRNA	84	191	8.1e-08	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_KB895370.1	barrnap:0.9	rRNA	450	3337	0	+	.	Name=23S_rRNA;product=23S ribosomal RNA

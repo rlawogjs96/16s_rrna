@@ -1,0 +1,4 @@
+##gff-version 3
+NZ_JAHRCY010000024.1	barrnap:0.9	rRNA	10	119	2.7e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAHRCY010000027.1	barrnap:0.9	rRNA	10	119	2.7e-09	+	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_JAHRCY010000040.1	barrnap:0.9	rRNA	47659	47768	2.7e-09	-	.	Name=5S_rRNA;product=5S ribosomal RNA

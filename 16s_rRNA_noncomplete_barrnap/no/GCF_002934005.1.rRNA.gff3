@@ -1,0 +1,3 @@
+##gff-version 3
+NZ_PGEM01000199.1	barrnap:0.9	rRNA	481	1708	1.5e-281	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 37 percent of the 23S ribosomal RNA
+NZ_PGEM01000199.1	barrnap:0.9	rRNA	1726	2224	3.7e-146	+	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 15 percent of the 23S ribosomal RNA

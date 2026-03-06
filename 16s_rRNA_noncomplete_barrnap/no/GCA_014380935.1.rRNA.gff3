@@ -1,0 +1,2 @@
+##gff-version 3
+JACMIX010000208.1	barrnap:0.9	rRNA	375	462	1.8e-07	+	.	Name=5S_rRNA;product=5S ribosomal RNA (partial);note=aligned only 73 percent of the 5S ribosomal RNA

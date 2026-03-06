@@ -1,0 +1,6 @@
+##gff-version 3
+NZ_BMVA01000014.1	barrnap:0.9	rRNA	222499	222609	4.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_BMVA01000030.1	barrnap:0.9	rRNA	57506	57616	4.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_BMVA01000039.1	barrnap:0.9	rRNA	25317	25427	4.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_BMVA01000040.1	barrnap:0.9	rRNA	25009	25119	4.3e-13	-	.	Name=5S_rRNA;product=5S ribosomal RNA
+NZ_BMVA01000058.1	barrnap:0.9	rRNA	2	1149	0	-	.	Name=23S_rRNA;product=23S ribosomal RNA (partial);note=aligned only 35 percent of the 23S ribosomal RNA
